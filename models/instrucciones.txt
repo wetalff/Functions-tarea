@@ -1,0 +1,3 @@
+Almacenar los datos de un
+estudiante, tales como: Nombres,
+Apellidos, carrera, año, promedio
